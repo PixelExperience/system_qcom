@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dd49efbb_e2a6fa69",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000166
+      },
+      "writtenOn": "2022-02-22T18:15:20Z",
+      "side": 1,
+      "message": "Still on device trees, if we clean there, we can keep here",
+      "revId": "280f068ab7269891c1a3a7e7d54710e0a8155a35",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    }
+  ]
+}
